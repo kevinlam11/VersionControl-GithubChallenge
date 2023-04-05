@@ -1,16 +1,14 @@
 Explain the terminal in your own words.
 
-        VSCode Terminal is a way to search, edit, create and delete files on your local device. 
-    There are preset rules and regulations for you to edit what you need to in your computer. 
-    You can also work on projects together with co-workers and create repositories on branches. 
+        VSCode Terminal is a way to search, edit, create and delete files on your local device.
+    There are preset rules and regulations for you to edit what you need to in your computer.
+    You can also work on projects together with co-workers and create repositories on branches.
     The terminal allows you to switch between branches and work on seperate branches so you dont ruin the main branches code.
 
+What is the major difference between git and github?
 
-What is the major difference between git and github? 
+       Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories.
 
-        Git is the terminal while Github is the website. 
+Why do we use github?
 
-Why do we use github? 
-
-        Github is used to store repositories and projects for the public. You can also make any of these private.
-
+        GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. You can create repositories, branches, commits and pull requests.
